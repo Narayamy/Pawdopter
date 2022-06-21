@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "396514716166",
+    "firebase_url": "https://pawdopter-783bf.firebaseio.com",
+    "project_id": "pawdopter-783bf",
+    "storage_bucket": "pawdopter-783bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396514716166:android:54d769200a6ef5fc2a7187",
+        "android_client_info": {
+          "package_name": "com.myapp.pawdopter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396514716166-cscli5r7eim0pgkaohfdl2eklp1e794d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.pawdopter",
+            "certificate_hash": "f9df602e051c0de6c2941d8f731b62b53d154823"
+          }
+        },
+        {
+          "client_id": "396514716166-n3c674f7kc15hnoggqqorkdv7v52faa1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.pawdopter",
+            "certificate_hash": "88dd428a1dfab75801b07207a7385f9eaa776a34"
+          }
+        },
+        {
+          "client_id": "396514716166-c9u76g85ojj29vvivpp5mq4gltnep5e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtM5ai1KD-Nb1Fql6N6rrtYDSB0n0b808"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396514716166-c9u76g85ojj29vvivpp5mq4gltnep5e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
